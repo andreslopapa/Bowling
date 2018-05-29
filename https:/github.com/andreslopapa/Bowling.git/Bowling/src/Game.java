@@ -42,9 +42,8 @@ public class Game {
 	}
 	
 
-
-}
-
+int holass;
+}//hola
 
 
 
