@@ -43,6 +43,7 @@ public class Game {
 	
 
 int holass;
+int int;
 }//hola
 
 
